@@ -1,0 +1,44 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+h2{
+    font-size: 45px;
+}
+.navbar{
+    box-shadow: 2px 2px 5px #000000;
+    opacity: .9;
+}
+
+.img-logo{
+    max-height: 75px;
+    
+}
+
+header{
+    padding-top: 103px;
+}
+
+.compacto{
+    max-height: 525px
+}
+
+
+
+section {
+    padding-top: 100px;
+}
+
+.fb{
+    max-width: 125px;
+    max-height: 125px;
+}
+.ig {
+    max-width: 200px;
+    max-height: 150px
+}
+
+footer {
+    background: rgba(36, 27, 0, 0.596);
+    font-size: 20px;
+}
